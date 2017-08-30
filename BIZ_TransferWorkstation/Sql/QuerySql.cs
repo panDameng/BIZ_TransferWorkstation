@@ -90,16 +90,16 @@ namespace BIZ_TransferWorkstation.Sql
         }
 
         // 物料编码
-        public static string getItemSql()
+        public static string getPictureSql()
         {
             string sql = @"SELECT hi.item_id,
-                                   hi.item_code,
+                                   hi.old_item_code,
                                    hi.descriptions,
                                    hp.descriptions plant_name
                               FROM hcm_item hi, hcm_plant hp
                              WHERE 1 = 1
                                AND hi.plant_id = hp.plant_id
-                               AND (hi.item_code" + Mes.Core.Utility.StrUtil.SQL_PLACEHOLDER +
+                               AND (hi.old_item_code" + Mes.Core.Utility.StrUtil.SQL_PLACEHOLDER +
                                    " OR hi.descriptions" + Mes.Core.Utility.StrUtil.SQL_PLACEHOLDER + ")";
             return sql;
         }

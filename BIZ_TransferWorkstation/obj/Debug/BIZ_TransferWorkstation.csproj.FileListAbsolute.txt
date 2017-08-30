@@ -18,4 +18,3 @@ C:\Users\PGM\Documents\Visual Studio 2017\Projects\BIZ_TransferWorkstation\BIZ_T
 C:\Users\PGM\Documents\Visual Studio 2017\Projects\BIZ_TransferWorkstation\BIZ_TransferWorkstation\obj\Debug\BIZ_TransferWorkstation.pdb
 C:\Users\PGM\Documents\Visual Studio 2017\Projects\BIZ_TransferWorkstation\BIZ_TransferWorkstation\obj\Debug\BIZ_TransferWorkstation.MainForm.resources
 C:\Users\PGM\Documents\Visual Studio 2017\Projects\BIZ_TransferWorkstation\BIZ_TransferWorkstation\obj\Debug\BIZ_TransferWorkstation.QueryForm.resources
-C:\Users\PGM\Documents\Visual Studio 2017\Projects\BIZ_TransferWorkstation\BIZ_TransferWorkstation\obj\Debug\BIZ_TransferWorkstation.csprojResolveAssemblyReference.cache
