@@ -46,14 +46,19 @@
     <Reference Include="Daisy.Windows">
       <HintPath>bin\Daisy.Windows.dll</HintPath>
     </Reference>
-    <Reference Include="HCMMOSpilt">
-      <HintPath>D:\HAND\YCZM\12.条码系统\04.开发\03.开发源码\01 C#\HCMMOSpilt\obj\Debug\HCMMOSpilt.dll</HintPath>
+    <Reference Include="log4net, Version=1.2.10.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Dll\log4net.dll</HintPath>
     </Reference>
     <Reference Include="Mes.ControlsEx">
       <HintPath>bin\Mes.ControlsEx.dll</HintPath>
     </Reference>
     <Reference Include="Mes.Core">
       <HintPath>bin\Mes.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Mes.Oracle.Packages, Version=1.0.0.12, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Dll\Mes.Oracle.Packages.dll</HintPath>
     </Reference>
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
